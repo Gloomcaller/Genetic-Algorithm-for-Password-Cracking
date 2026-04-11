@@ -20,7 +20,7 @@ This project visualizes evolution in action with a color-coded terminal interfac
 
 ## How It Works
 
-This implementation follows the standard **Genetic Algorithm** framework as described in both [Wikipedia](https://en.wikipedia.org/wiki/Genetic_algorithm) and [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/genetic-algorithms/):
+This implementation follows the standard **Genetic Algorithm** framework as described in both [Wikipedia](https://en.wikipedia.org/wiki/Genetic_algorithm) and [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/genetic-algorithms/), demonstrating how evolutionary principles can efficiently search complex solution spaces.
 
 | GA Component | Implementation |
 |:---|:---|
